@@ -1,0 +1,13 @@
+{
+  "name": "front-end-vietnam",
+  "version": "1.0.0",
+  "description": "Khung công tác front-end cho phát triển ứng dụng web tại Việt Nam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["front-end", "vietnam", "web development"],
+  "author": "Tên của bạn",
+  "license": "MIT"
+}
